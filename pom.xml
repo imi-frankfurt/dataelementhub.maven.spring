@@ -9,7 +9,7 @@
     <parent>
         <groupId>de.mig</groupId>
         <artifactId>parent-spring</artifactId>
-        <version>12.0.0</version>
+        <version>13.0.0</version>
     </parent>
 
     <scm>
